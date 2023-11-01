@@ -1,0 +1,14 @@
+C:\Users\Victus\OneDrive\Desktop\worke\C#\ClassMateLogix\Entity\bin\Debug\net6.0\Entity.deps.json
+C:\Users\Victus\OneDrive\Desktop\worke\C#\ClassMateLogix\Entity\bin\Debug\net6.0\Entity.runtimeconfig.json
+C:\Users\Victus\OneDrive\Desktop\worke\C#\ClassMateLogix\Entity\bin\Debug\net6.0\Entity.dll
+C:\Users\Victus\OneDrive\Desktop\worke\C#\ClassMateLogix\Entity\bin\Debug\net6.0\Entity.pdb
+C:\Users\Victus\OneDrive\Desktop\worke\C#\ClassMateLogix\Entity\obj\Debug\net6.0\Entity.csproj.AssemblyReference.cache
+C:\Users\Victus\OneDrive\Desktop\worke\C#\ClassMateLogix\Entity\obj\Debug\net6.0\Entity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Victus\OneDrive\Desktop\worke\C#\ClassMateLogix\Entity\obj\Debug\net6.0\Entity.AssemblyInfoInputs.cache
+C:\Users\Victus\OneDrive\Desktop\worke\C#\ClassMateLogix\Entity\obj\Debug\net6.0\Entity.AssemblyInfo.cs
+C:\Users\Victus\OneDrive\Desktop\worke\C#\ClassMateLogix\Entity\obj\Debug\net6.0\Entity.csproj.CoreCompileInputs.cache
+C:\Users\Victus\OneDrive\Desktop\worke\C#\ClassMateLogix\Entity\obj\Debug\net6.0\Entity.dll
+C:\Users\Victus\OneDrive\Desktop\worke\C#\ClassMateLogix\Entity\obj\Debug\net6.0\refint\Entity.dll
+C:\Users\Victus\OneDrive\Desktop\worke\C#\ClassMateLogix\Entity\obj\Debug\net6.0\Entity.pdb
+C:\Users\Victus\OneDrive\Desktop\worke\C#\ClassMateLogix\Entity\obj\Debug\net6.0\Entity.genruntimeconfig.cache
+C:\Users\Victus\OneDrive\Desktop\worke\C#\ClassMateLogix\Entity\obj\Debug\net6.0\ref\Entity.dll
